@@ -2,7 +2,7 @@ select database();
 
 -- tables
 show tables;
-
+ 
 -- to see the structure of table
 describe city;
 
