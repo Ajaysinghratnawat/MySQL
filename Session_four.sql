@@ -5,7 +5,7 @@ Functions are set of business logic that we can use many time as we want(code re
 two types
 Scalar function -> work row by row (result for each)(applied on each row and give result for each row)'
 multiline function -> applied on multiple line but give one output
-
+ 
 Scalar Function can apply: date, int, float, string
 
 String functions: 
