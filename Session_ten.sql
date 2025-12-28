@@ -1,7 +1,7 @@
 use sakila;
 select * from actor;-- actor_id pk
 select * from film_actor;-- actor_id fk
-
+ 
 select a.first_name,a.actor_id 
 from actor as a join film_actor as fa
 where a.actor_id=fa.actor_id;
