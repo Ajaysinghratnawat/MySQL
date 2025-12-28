@@ -7,7 +7,7 @@ select continent, count(name) from country where indepyear> 1950 group by contin
 
 select continent, sum(population) from country group by continent;
 select * from country;
-
+ 
 -- WHERE will only filter the data which will exist
 -- what is d/f b/w WHERE and HAVING
 -- Where clause is used to filter the data from column but other hand
