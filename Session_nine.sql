@@ -3,7 +3,7 @@
 -- 1. Conceptual Model -> Entity,Attribute
 -- 2. Logical Model -> Entity,Attribute,Relationship
 -- 3. Physical Model -> table,column,Relationship,data types
-
+ 
 -- Primary key is unique and not null
 -- Foreign Key use for create relationship
 
