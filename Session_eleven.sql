@@ -10,7 +10,7 @@ CREATE TABLE orders (
     customer_id INT,
     order_date DATE,
     amount DECIMAL(10,2)
-);
+); 
 INSERT INTO customers (customer_id, customer_name, city) VALUES
 (1, 'Alice', 'New York'),
 (2, 'Bob', 'Los Angeles'),
