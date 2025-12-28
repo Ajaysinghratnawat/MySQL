@@ -1,5 +1,5 @@
 -- numeric functions, dates
-use world;
+use world; 
 -- round off decimal value
 select lifeexpectancy, round(lifeexpectancy) from country;-- converting decimal value to exact value
 
