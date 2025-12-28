@@ -1,5 +1,5 @@
 -- Functions
-/*
+/* 
 Functions are set of business logic that we can use many time as we want(code reusable)
 
 two types
