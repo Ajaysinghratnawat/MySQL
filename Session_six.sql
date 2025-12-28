@@ -1,7 +1,7 @@
 -- aggregate function (to perform the calculation on set of rows)
 -- -> applied on multiple rows and give multiple output
 
--- count
+-- count 
 use world;
 
 select * from country;
