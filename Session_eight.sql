@@ -8,3 +8,4 @@ where month(payment_date)=5 group by customer_id;
 -- order by sort in increasing order
 -- desc decreasing order
 select * from payment order by customer_id,amount desc;
+ 
