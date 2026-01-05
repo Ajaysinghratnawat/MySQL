@@ -116,3 +116,8 @@ SELECT Customers.Name, Products.ProductName
 FROM Customers
 NATURAL JOIN Products;
 ```
+
+## 🔍 What is a Sub query?
+Sub query is a query within another query and it is also called inner query.
+
+---
