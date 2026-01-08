@@ -38,8 +38,8 @@ SQL commands are divided into functional groups to manage everything from data s
 
 | Category | Full Name | Purpose | Key Commands |
 | :--- | :--- | :--- | :--- |
-| **DDL** | Data Definition Language | Defines database structure | `CREATE`, `ALTER`, `DROP` |
-| **DML** | Data Manipulation Language | Manages data within tables | `INSERT`, `UPDATE`, `DELETE` |
+| **DDL** | Data Definition Language | Defines database structure | `CREATE`, `ALTER`, `DROP` ,`TRUNCATE` |
+| **DML** | Data Manipulation Language | Manages data within tables | `INSERT`, `UPDATE`, `DELETE`,`MERGE`  |
 | **DQL** | Data Query Language | Retrieves data | `SELECT` |
 | **DCL** | Data Control Language | Manages permissions | `GRANT`, `REVOKE` |
 | **TCL** | Transaction Control Language | Manages transactions | `COMMIT`, `ROLLBACK` |
