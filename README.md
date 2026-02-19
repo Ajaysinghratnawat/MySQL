@@ -6,7 +6,7 @@ This repository is created to help you learn **SQL (Structured Query Language)**
 SQL is one of the most important skills for **developers, and students**.  
 This repository explains **core SQL concepts with examples**, focusing on clarity and real-world usage.
 
----
+--- 
 
 ## 🧠 What is SQL?
 
