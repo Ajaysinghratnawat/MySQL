@@ -1,4 +1,7 @@
 -- order of execution of sql statement
+-- window fxn is use to perform the calculation on the set of rows
+-- They perform the operation and written single value for each row
+-- No matter row is selected or not
 CREATE DATABASE IF NOT EXISTS window_fn_practice;
 USE window_fn_practice;
 CREATE TABLE employees (
